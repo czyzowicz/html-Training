@@ -1,0 +1,58 @@
+/*
+Każdy obraz na stronie powinien mieć maksymalną szerokość (max-width) ustawioną na sto procent,
+a wysokość ma być dobierana automatycznie
+*/
+
+
+/*
+Klasa header-container ma mieć automatyczne marginesy z lewej i z prawej oraz zerowy margines
+z góry i z dołu
+oraz ma mieć szerokość 20 procent rodzica
+(uzyskamy w ten sposób efekt wycentrowania)
+*/
+
+
+/*
+Zarówno header, jak i footer powinny mieć ten sam kolor tła.
+Do wyboru kolorów możesz użyć strony https://color.adobe.com/pl/create/color-wheel/
+Zastosuj wartość zapisaną heksadecymalnie.
+*/
+
+
+/*
+Elementy li będące potomkami elementu nav powinny być wyświetlane jako elementy liniowo-blokowe
+oraz mieć padding (z każdej strony) 10 px.
+*/
+
+
+/*
+Po najechaniu myszą na elementy li będące potomkami elementu nav powinny zmienić kolor tła.
+*/
+
+
+/*
+Wszystkie elementy p na stronie powinny być wyjustowane.
+*/
+
+
+/*
+Elementy p będące potomkami klasy footer-content powinny być wycentrowane.
+*/
+
+
+/*
+Pierwszy brat elementu h1 będącego potomkiem elementu o id "about-me" powinien mieć
+margines górny na 30 px, padding górny na 10 px oraz
+górną ramkę o szerokości dwóch px, o dowolnym stylu i kolorze.
+*/
+
+
+/*
+Gdy ekran ma co najwyżej szerokość 760 pikseli,
+opisany wyżej element
+(pierwszy brat elementu h1 będącego potomkiem elementu o id "about-me")
+powinien mieć margines górny tylko na 5 px,
+padding górny też na 5 px,
+górnej ramki mieć nie może.
+*/
+
