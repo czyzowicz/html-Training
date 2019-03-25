@@ -1,0 +1,17 @@
+p {
+    color:aliceblue;
+    font-size: 15px;
+}
+body {
+    background-color: yellow;
+}
+div{
+    background-color: aquamrine;
+}
+#cssexample {
+    color : blueviolet;
+}
+h1.red, h2 {
+    color: red;
+    text-align: center;
+}
